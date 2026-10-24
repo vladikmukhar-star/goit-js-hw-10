@@ -1,4 +1,5 @@
-import { PREP_TIME } from "./src/js/menu.js";
+import { PREP_TIME } from "./js/menu.js";
+
 const form = document.querySelector(".form");
 const orderLog = document.querySelector(".order-log");
 
